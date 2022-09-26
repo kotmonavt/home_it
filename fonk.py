@@ -10,4 +10,3 @@ def fonk(factorial):
 
 
 fonk(3)
-fonk(12)
